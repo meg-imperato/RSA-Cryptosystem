@@ -1,3 +1,3 @@
-README
+# RSA Encryption Implementation
 
-Implementation of the RSA Cryptosystem, invented by Whitfield Diffie and Martin Hellman.
+Implementation of the RSA Cryptosystem (Rivest, Shamir, and Adleman 1978).
